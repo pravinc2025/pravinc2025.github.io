@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://pravinc2025.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: pravinc2025 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -132,10 +132,10 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # boolean, keep empty means false
+    enabled: true # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: development # [development | production]
 
 pwa:
   enabled: true # The option for PWA feature (installable)
